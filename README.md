@@ -1,0 +1,2 @@
+# poskestren
+task magang
